@@ -5,6 +5,8 @@ Configures and manages disco.
 
 ## Warnings
 
+I haven't run this since Anaconda 0.9.  This should be seen as a framework for a puppet disco module. i
+
 This will get Disco 90% installed on a cluster.  You will still need to configure your Master to take to the disco slaves. 
 
 ## Usage
