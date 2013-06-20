@@ -1,0 +1,4 @@
+puppet-disco
+============
+
+Configure disco
